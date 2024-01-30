@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+fieldset {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: rgb(12, 26, 60);
+}
